@@ -1,0 +1,6 @@
+# Archivos de Go
+*.exe
+*.log
+*.out
+
+vendor/
